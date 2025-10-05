@@ -4,7 +4,7 @@
 ![Swing](https://img.shields.io/badge/UI-Java%20Swing-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Design Patterns](https://img.shields.io/badge/Architecture-Design%20Patterns-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE).
 
 A comprehensive, integrated healthcare management system built with Java and powered by object-oriented design patterns. This desktop application is designed to centralize and streamline core administrative and clinical functions for healthcare organizations.
 
