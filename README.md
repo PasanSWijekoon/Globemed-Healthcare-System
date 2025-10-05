@@ -57,7 +57,7 @@ The core of this project is the practical application of design patterns to solv
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/globemed-healthcare-system.git](https://github.com/your-username/globemed-healthcare-system.git)
+    git clone [https://github.com/PasanSWijekoon/Globemed-Healthcare-System.git](https://github.com/PasanSWijekoon/Globemed-Healthcare-System.git)
     ```
 2.  **Database Setup:**
     * Create a new MySQL database named `globemed_db`.
