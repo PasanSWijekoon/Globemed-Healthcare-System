@@ -79,7 +79,10 @@ Of course. Here is a complete markdown table tailored to your "GlobeMed Healthca
 
 You can copy and paste this directly into your `README.md` file and replace the placeholder image links with your actual screenshot URLs.
 
------
+Of course. Here is the complete markdown table with placeholder image links, tailored to your "GlobeMed Healthcare Management System" project.
+
+You can copy and paste this directly into your `README.md` file and replace the `https://i.imgur.com/your_image_url.png` placeholders with the actual URLs to your screenshots.
+
 
 ## 📸 Screenshots
 
@@ -99,29 +102,6 @@ This table showcases the main user interfaces of the GlobeMed Healthcare Managem
 | *An administrative panel for managing staff details and roles (`FormStaff`).* | *The interface for managing user accounts and system security (`FormSecurity`).* |
 |  |  |
 
-Of course. Here is the complete markdown table with placeholder image links, tailored to your "GlobeMed Healthcare Management System" project.
-
-You can copy and paste this directly into your `README.md` file and replace the `https://i.imgur.com/your_image_url.png` placeholders with the actual URLs to your screenshots.
-
------
-
-## 📸 Screenshots
-
-This table showcases the main user interfaces of the GlobeMed Healthcare Management System.
-
-| Login Screen | Doctor's Dashboard |
-| :---: | :---: |
-| *Secure login for all staff members, managed by the `LoginForm`. ![Login Screen](link-to-your-screenshot) * | *A central hub for doctors, displaying key analytics and system information from `FormDashboard`.* |
-|  |  |
-| **Manage Patients** | **Appointment Scheduling** |
-| *A comprehensive view for managing patient records (`FormPatients`).* | *An intuitive interface for booking and viewing appointments (`FormAppointments`).* |
-|  |  |
-| **Billing & Claims** | **Report Generation** |
-| *A flexible form for processing direct payments and insurance claims (`FormBilling`).* | *A simple tool to generate detailed patient summary reports (`FormReports`).* |
-|  |  |
-| **Staff Management** | **Security & User Management** |
-| *An administrative panel for managing staff details and roles (`FormStaff`).* | *The interface for managing user accounts and system security (`FormSecurity`).* |
-|  |  |
 
 ## 📸 Screenshots
 
