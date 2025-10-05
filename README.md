@@ -30,10 +30,10 @@ This project was developed as a submission for the Object-Oriented Design Patter
 * **Database**: MySQL
 * **IDE**: Apache NetBeans
 * **Key Libraries**:
-    * [cite_start][FlatLaf](https://www.formdev.com/flatlaf/) (for UI theme) [cite: 131]
-    * [cite_start][Swing-Chart](https://github.com/HanSolo/charts) (for dashboard analytics) [cite: 131]
-    * [cite_start][MigLayout](http://www.miglayout.com/) (for UI layout) [cite: 132]
-    * [cite_start]MySQL Connector/J (for database connectivity) [cite: 132]
+    * [FlatLaf](https://www.formdev.com/flatlaf/) (for UI theme) 
+    * [Swing-Chart](https://github.com/HanSolo/charts) (for dashboard analytics)
+    * [MigLayout](http://www.miglayout.com/) (for UI layout)
+    * MySQL Connector/J(https://dev.mysql.com/downloads/connector/j/) (for database connectivity) 
 
 ## 🏗️ Design Patterns Utilized
 
