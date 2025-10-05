@@ -109,7 +109,7 @@ This table showcases the main user interfaces of the GlobeMed Healthcare Managem
 
 | Login Screen                               | Dashboard                                  |
 | ------------------------------------------ | ------------------------------------------ |
-| ![Login Screen](link-to-your-screenshot)   | ![Dashboard](link-to-your-screenshot)      |
+| ![Login Screen](https://i.imgur.com/Hb4CFG7.png)   | ![Dashboard](link-to-your-screenshot)      |
 | **Manage Patients** | **Appointment Scheduling** |
 | ![Patients Screen](link-to-your-screenshot)| ![Appointments Screen](link-to-your-screenshot) |
 
