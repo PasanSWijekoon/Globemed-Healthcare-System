@@ -103,16 +103,6 @@ This table showcases the main user interfaces of the GlobeMed Healthcare Managem
 | ![Staff Screen](https://i.imgur.com/zZAb9Lg.png) | ![Security Screen](https://i.imgur.com/P7hdeqP.png) |
 
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here to showcase the UI)*
-
-| Login Screen                               | Dashboard                                  |
-| ------------------------------------------ | ------------------------------------------ |
-| ![Login Screen](https://i.imgur.com/Hb4CFG7.png)   | ![Dashboard](link-to-your-screenshot)      |
-| **Manage Patients** | **Appointment Scheduling** |
-| ![Patients Screen](link-to-your-screenshot)| ![Appointments Screen](link-to-your-screenshot) |
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
