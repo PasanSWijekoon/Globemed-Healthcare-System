@@ -90,16 +90,16 @@ This table showcases the main user interfaces of the GlobeMed Healthcare Managem
 
 | Login Screen | Doctor's Dashboard |
 | :---: | :---: |
-| *Secure login for all staff members, managed by the `LoginForm`.* | *A central hub for doctors, displaying key analytics and system information from `FormDashboard`.* |
+| *Secure login for all staff members, managed by the `LoginForm`. ![Login Screen](https://imgur.com/guBiAl0) * | *A central hub for doctors, displaying key analytics and system information from `FormDashboard`. ![Dashboard Screen](https://imgur.com/u4x7EhQ)* |
 |  |  |
 | **Manage Patients** | **Appointment Scheduling** |
-| *A comprehensive view for managing patient records (`FormPatients`).* | *An intuitive interface for booking and viewing appointments (`FormAppointments`).* |
+| *A comprehensive view for managing patient records `FormPatients`. ![Patients Screen](https://imgur.com/sGjXajD)* | *An intuitive interface for booking and viewing appointments `FormAppointments`. ![Appointments Screen](https://imgur.com/Hb4CFG7) * |
 |  |  |
 | **Billing & Claims** | **Report Generation** |
-| *A flexible form for processing direct payments and insurance claims (`FormBilling`).* | *A simple tool to generate detailed patient summary reports (`FormReports`).* |
+| *A flexible form for processing direct payments and insurance claims `FormBilling`. ![Billing Screen](https://imgur.com/WXH0B4z)* | *A simple tool to generate detailed patient summary reports `FormReports`. ![Reports Screen](https://imgur.com/Ml1ZquR)* |
 |  |  |
 | **Staff Management** | **Security & User Management** |
-| *An administrative panel for managing staff details and roles (`FormStaff`).* | *The interface for managing user accounts and system security (`FormSecurity`).* |
+| *An administrative panel for managing staff details and roles (`FormStaff`). ![Staff Screen](https://imgur.com/zZAb9Lg)* | *The interface for managing user accounts and system security `FormSecurity`. ![Security Screen](https://imgur.com/P7hdeqP)* |
 |  |  |
 
 
