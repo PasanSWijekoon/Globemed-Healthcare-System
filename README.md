@@ -33,17 +33,17 @@ This project was developed as a submission for the Object-Oriented Design Patter
     * [FlatLaf](https://www.formdev.com/flatlaf/) (for UI theme) 
     * [Swing-Chart](https://github.com/HanSolo/charts) (for dashboard analytics)
     * [MigLayout](http://www.miglayout.com/) (for UI layout)
-    * MySQL Connector/J(https://dev.mysql.com/downloads/connector/j/) (for database connectivity) 
+    * [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) (for database connectivity) 
 
 ## 🏗️ Design Patterns Utilized
 
 The core of this project is the practical application of design patterns to solve real-world problems.
 
-* **Proxy & Decorator**: Used for secure and extensible patient record management. [cite_start]The Proxy controls access, while the Decorator adds functionalities like logging and encryption. [cite: 136]
-* [cite_start]**Command**: Decouples appointment scheduling requests from the system that processes them, allowing for flexible and extensible scheduling operations. [cite: 137]
-* [cite_start]**Chain of Responsibility & State**: Manages the multi-step, procedural flow of billing and insurance claim processing in a modular and maintainable way. [cite: 138]
-* **Strategy & Factory**: Implements a dynamic and role-based permission management system. [cite_start]The Factory creates the appropriate permission set (Strategy) for a given user role. [cite: 139]
-* [cite_start]**Visitor**: Separates the report generation logic from the core data models (like PatientRecord), allowing for new report formats to be added easily without changing the data structure. [cite: 140]
+* **Proxy & Decorator**: Used for secure and extensible patient record management. The Proxy controls access, while the Decorator adds functionalities like logging and encryption. 
+* **Command**: Decouples appointment scheduling requests from the system that processes them, allowing for flexible and extensible scheduling operations. 
+* **Chain of Responsibility & State**: Manages the multi-step, procedural flow of billing and insurance claim processing in a modular and maintainable way. 
+* **Strategy & Factory**: Implements a dynamic and role-based permission management system. The Factory creates the appropriate permission set (Strategy) for a given user role. 
+* **Visitor**: Separates the report generation logic from the core data models (like PatientRecord), allowing for new report formats to be added easily without changing the data structure.
 
 ## 🚀 Getting Started
 
