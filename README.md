@@ -90,7 +90,7 @@ This table showcases the main user interfaces of the GlobeMed Healthcare Managem
 
 | Login Screen | Doctor's Dashboard |
 | :---: | :---: |
-| *Secure login for all staff members, managed by the `LoginForm`. [Imgur](https://i.imgur.com/Hb4CFG7.png)* | *A central hub for doctors, displaying key analytics and system information from `FormDashboard`. ![Dashboard Screen](https://imgur.com/u4x7EhQ)* |
+| *Secure login for all staff members, managed by the `LoginForm`.  ![Login Screen](https://i.imgur.com/Hb4CFG7.png) * | *A central hub for doctors, displaying key analytics and system information from `FormDashboard`. ![Dashboard Screen](https://imgur.com/u4x7EhQ)* |
 |  |  |
 | **Manage Patients** | **Appointment Scheduling** |
 | *A comprehensive view for managing patient records `FormPatients`. ![Patients Screen](https://imgur.com/sGjXajD)* | *An intuitive interface for booking and viewing appointments `FormAppointments`. ![Appointments Screen](https://imgur.com/Hb4CFG7) * |
