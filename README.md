@@ -61,7 +61,7 @@ The core of this project is the practical application of design patterns to solv
     ```
 2.  **Database Setup:**
     * Create a new MySQL database named `globemed_db`.
-    * Import the provided `database.sql` file to set up the required tables and initial data.
+    * Import the provided `globemed.sql` file under `src/com/globemed/util/` to set up the required tables and initial data.
     * Update the database connection details in `src/com/globemed/util/DBUtil.java` with your MySQL username and password.
 
 3.  **Open in NetBeans:**
